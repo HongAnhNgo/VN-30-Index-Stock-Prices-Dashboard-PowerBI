@@ -248,3 +248,4 @@ Những ngành này thể hiện mức độ nhạy cảm cao với biến độ
 - Phân tích rủi ro và độ biến động giá (Volatility)
 - Mở rộng sang mô hình **dự báo giá cổ phiếu**
 
+*Author: Ngô Hồng Anh*
