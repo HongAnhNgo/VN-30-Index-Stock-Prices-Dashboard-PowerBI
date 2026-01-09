@@ -36,6 +36,7 @@ Dự án này xây dựng **Dashboard Power BI phân tích dữ liệu giá cổ
 
 ### 🔹 Nguồn dữ liệu
 - **Kaggle – VN30 Stock Price Dataset**
+- [Data Source](https://www.kaggle.com/datasets/nguyenngocphung/stock-prices-vn30-indexvietnam)
 
 ### 🔹 Mô tả dữ liệu
 - Dataset gồm **30 file CSV**, mỗi file tương ứng với **1 mã cổ phiếu thuộc VN30**
