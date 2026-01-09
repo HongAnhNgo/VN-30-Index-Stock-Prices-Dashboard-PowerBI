@@ -3,6 +3,8 @@
 > **Power BI Dashboard phân tích dữ liệu giá cổ phiếu VN30 Index**  
 > Thực hiện đầy đủ quy trình phân tích dữ liệu từ thu thập, làm sạch, mô hình hóa đến trực quan hóa, nhằm phân tích xu hướng thị trường và hỗ trợ ra quyết định đầu tư.
 
+📷 *Power BI Dashboard phân tích dữ liệu giá cổ phiếu VN30 Index*  
+![Summary Dashboard](images/summary.png)
 ---
 
 ## 📌 Mục lục
